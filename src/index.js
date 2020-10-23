@@ -43,7 +43,6 @@ function check(token) {
             }
             console.log(`[ \x1b[33mLOCKED\x1b[0m ] ${token}`);
             fs.appendFile(`${resultsDir}locked.txt`, `${token}\n`, (error) => {})
-            console.log(json);
         }
     })
 }
