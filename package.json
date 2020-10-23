@@ -1,0 +1,11 @@
+{
+  "name": "token-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "minegamer2000",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
